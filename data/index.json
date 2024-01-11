@@ -5,50 +5,47 @@
             "year": 2019,
             "description": "Matriculated",
             "place": "Princeton High School",
-            "type": "National Senior Certificate",
-            "certificate": ""
+            "type": "National Senior Certificate"
         },
         {
             "id": 2,
             "year": 2020,
             "description": "I got my N1 and N2 certificates",
             "place": "North Link college",
-            "type": "certificate",
-            "certificate": ""
+            "type": "certificate"
         },
         {
             "id": 3,
             "year": 2023,
             "description": "I got my N3 and N4 certificates",
             "place": "North link college",
-            "type": "certificate",
-            "certificate": ""
+            "type": "certificate"
         }
     ],
     "skills": [
         {
             "title": "Html",
-            "experience": "enough"
+            "experience": "I have acquired lots of knowledge from html and im fully confident in understanding both the meaning and uses of the tags."
         },
         {
             "title": "Css",
-            "experience": "enough"
+            "experience": "I have done multiple projects using css, i can wholeheartedly say that i completely understand the topic."
         },
         {
             "title": "Javascript",
-            "experience": "enough"
+            "experience": "My experience in jS is minimum however i believe i can understand the language and will be able to create using JS."
         },
         {
             "title": "VueJs",
-            "experience": "enough"
+            "experience": "Vue is really easy to use and understand. I've mastered the framework and im capable of creating exceptional sites"
         }
     ],
     "testimonials": [
         {
             "name": "Nathalie",
-            "surname": "Willimse",
+            "surname": "Willemse",
             "quotes": "Taryn Lee is a gem. She is very knowlegdeable and wise. She is super kind and always willing to help. She is very friendly and makes new friends everywhere. She is a people's person and enjoy being around people. I am  very honored to be in her class and being here peer.",
-            "profile": "https://i.ibb.co/wst84TV/Snapchat-558663554.jpg"
+            "profile": "https://i.ibb.co/wst84TV/Snapchat-558663554.jpg" 
         },
         {
             "name": "Jason ",
@@ -61,25 +58,25 @@
             "name": "Anathi",
             "surname": "josefu",
             "quotes": "Taryn-lee Walbrugh is a highly dedicated and inquisitive individual with unwavering focus on achieving projects  goals.She is consistently exhibited a strong commitment to learning and problem-solving</p>",
-            "profile": "https://drive.google.com/uc?id=1bRm0wsy5Xv40eYHuo3DqgHIbfNfvFpK6"
+            "profile": "h"
         },
         {
-            "name": "Seth",
-            "surname": "Tobias",
+            "name": "Ntokozo",
+            "surname": "Sibele",
             "quotes": "Taryn-lee is a wonderful individual. She is a very caring and honest individual.She is also a very well organized  and knows what she wants. She gets the things she needs to do done. Quickly and efficiently. She is also very effective at management.  She will be a great asset to any organization.",
-            "profile": "https://drive.google.com/uc?id="
+            "profile": ""
         },
         {
             "name": "Joel",
             "surname": "Mukanya",
             "quotes": "Taryn-lee is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
-            "profile": "https://drive.google.com/uc?id=1dNGRBYiXJvguw5oVs1mo_oPIokSoL5qu"
+            "profile": ""
         },
         {
-            "name": "Ntokozo",
-            "surname": "s",
+            "name": "Veronique",
+            "surname": "Nappie",
             "quotes": "Taryn-lee is a creative, goal-getter, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub.",
-            "profile": "https://drive.google.com/uc?id="
+            "profile": ""
         }
     ],
     "projects":[
