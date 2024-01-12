@@ -85,42 +85,42 @@
             "description": "I built this application using HTML 5 and CSS",
             "image": "https://i.ibb.co/VJgWqyW/mobicare.jpg",
             "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "vercel": ""
+            "vercel": "mobicare-jmo7-j0dspjxuu-taryn-lees-projects.vercel.app"
         },
         {
             "name": "Temperture converter",
             "description": "This is my converter webpage, I built it using HTML 5, CSS 3 and  Javascript  I",
             "image": "",
             "gitHub": "https://tarynleewalbrugh25.github.io/converter/",
-            "vercel": ""
+            "vercel": "converter-hcha1w4p6-taryn-lees-projects.vercel.app"
         },
         {
             "name": "Age to days ",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
             "image": "",
             "gitHub": "https://tarynleewalbrugh25.github.io/AgetoDays/",
-            "vercel": ""
+            "vercel": "ageto-days-aimmchy2z-taryn-lees-projects.vercel.app"
         },
         {
-            "name": "Calculator",
+            "name": "BMI",
             "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
             "image": "",
-            "gitHub": "",
-            "netlify": ""
+            "gitHub": "https://tarynleewalbrugh25.github.io/BMI/",
+            "netlify": "bmi-o7weel85q-taryn-lees-projects.vercel.app"
         },
         {
             "name": "Bookshelf",
             "description": "I built this using HTML 5, CSS and  Bootstrap.",
             "image": "",
             "gitHub": "https://tarynleewalbrugh25.github.io/bookstore/",
-            "vercel": "/"
+            "vercel": "bookstore-4plz-3n2skwrjm-taryn-lees-projects.vercel.app"
         },
         {
             "name": "Serenity paints",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
             "image": "",
             "gitHub": "https://tarynleewalbrugh25.github.io/Serenity_Paints/",
-            "vercel": ""
+            "vercel": "serenity-paints-ba6k-lyoed9h19-taryn-lees-projects.vercel.app"
         }
     ]
 }
