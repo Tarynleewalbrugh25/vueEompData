@@ -38,7 +38,15 @@
         {
             "title": "VueJs",
             "experience": "Vue is really easy to use and understand. I've mastered the framework and im capable of creating exceptional sites."
-        }
+        },
+        {
+            "title": "Mysql",
+            "experience": "I have acquired lots of knowledge from mysql and can create a database."
+        },
+        {
+            "title": "Nodejs",
+            "experience": "I can create a fully working API for different sites."
+        },
     ],
     "testimonials": [
         {
